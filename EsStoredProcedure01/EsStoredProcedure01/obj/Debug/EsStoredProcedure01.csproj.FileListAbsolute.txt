@@ -1,0 +1,9 @@
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\obj\Debug\EsStoredProcedure01.csprojAssemblyReference.cache
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\obj\Debug\EsStoredProcedure01.Form1.resources
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\obj\Debug\EsStoredProcedure01.Properties.Resources.resources
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\obj\Debug\EsStoredProcedure01.csproj.GenerateResource.cache
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\bin\Debug\EsStoredProcedure01.exe.config
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\bin\Debug\EsStoredProcedure01.exe
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\bin\Debug\EsStoredProcedure01.pdb
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\obj\Debug\EsStoredProcedure01.exe
+D:\Scuola\INFO_2K21\Code\EsStoredProcedure01\EsStoredProcedure01\obj\Debug\EsStoredProcedure01.pdb
